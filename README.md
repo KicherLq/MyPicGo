@@ -1,0 +1,2 @@
+# MyPicGo
+store pics
